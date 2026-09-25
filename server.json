@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/pennsylvania-code",
   "title": "Pennsylvania Code",
   "description": "Pennsylvania Consolidated Statutes — state statutes by citation.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/pennsylvania-code",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-pennsylvania-code",
