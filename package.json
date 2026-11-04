@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-pennsylvania-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Pennsylvania Consolidated Statutes — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "pennsylvania-code",
     "gatewaySlug": "pennsylvania-code",
-    "sourceHash": "v1-59f9b6daa6e1e64e5c3972773c129357dceab3ee9cda9867a366400926dec736",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-bb459e5bea0d5e31e30f6652a6c188b7e93925c808091099603c14d374157f6f",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
